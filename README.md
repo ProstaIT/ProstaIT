@@ -7,4 +7,4 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prosta&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProstaIT&layout=compact)](https://github.com/prostait/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prosta&layout=compact)](https://github.com/prostait/github-readme-stats)
